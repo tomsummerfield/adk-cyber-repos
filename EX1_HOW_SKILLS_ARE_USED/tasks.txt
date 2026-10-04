@@ -1,0 +1,7 @@
+1. Create a SKILL folder under the directory skills > cloud_diagnoses > skill.md
+2. Create a SCRIPT folder under skills > scripts > post_payload.py
+3. Create an ASSET folder under skills > assets > diagnoses_example.config 
+
+There are two ways to use skills, either in the code using google.adk.skills import models or makinmg it availiable to your agent
+using SkillToolSet. For this example, I will be using the SkillToolSet
+
